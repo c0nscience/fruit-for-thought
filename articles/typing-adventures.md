@@ -1,0 +1,13 @@
+# Typing Adventures
+
+Welcome to my typing adventure. I embarked on this journey on the 27. May 2021. There my new keyboard arrived: The Moonlander MK I. It is a split keyboard with an ortho-linear layout. This ergonomic keyboard tries to lower your eliminate the stress on your wrists, arms and fingers from writing on a conventional keyboard.
+
+I am a software developer and love to play video games. Naturally I sit a lot infront of my keyboard. I know the standard US QWERTY layout by heart. I've tought myself writing on a keyboard as a kid: Everytime I couldn't sleep or was board I tried to write words on the keyboard in my head. That lead to good writing speed, but I didn't followed any regular kind of touch typing. It is basically freestyle.
+
+And now I need to rewire my brain to achieve the same speed and confidence which I had on my regular keyboard. How do I do this? Well first since I got the keyboard I have not used my plain old keyboard anymore (besides some short-cuts if I grew too impatient with myself). Second I force myself to to at least practice one hour focused on typing without the need to be productive, like working on a side project. I use the tool provided with ZSA's Oryx configurator, typeracer, monkeytype and typing.io. Only in these two days I already got somewhat familiar with the Moonlander so that my consistency in some exercises are at about 95% accuarcy. But full disclosure I am still slow as a snail. My speed in words per minute (wpm) droped from 60-70 in writing text to 15-20 wpm. And third, just to name one, I started writing this blog. Which took me half an hour for he 294 word up until here. Next I will also continue working on my side project 9 to 5 and build a website for this blog.
+
+So what is next?
+
+I think before I can start gaining speed I need to get way more consitent in my accuarcy. Since I never formally learned touch typing I also never learned where to put my fingers on the keyboard and which finger should type what key. That means I could only type fast and some what accurate (90-97%) when my hands and the keyboard were just positioned right. If I was a centimeter off I only had misstypes and I didn't knew anymore where I was on the keyboard. That also meant I never used these homing humps on the F and J keys. Well now I need to do all that. And loose weird habbits in my muscel-memory-brain: Aparently I learned to type the Y key with my left hand middle finger, which does not work anymore since the Y key is now on the right half of the keyboard. The same is true for how I used to type the B key which is now on the left half and I used to type it with the right hands thumb.
+
+Thanks for reading and see you in the next article.
